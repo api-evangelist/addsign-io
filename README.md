@@ -66,7 +66,7 @@
 
 AddSign is an electronic signature platform tailored for small businesses and freelancers. It offers a free forever plan with AI‑powered document analysis, unlimited signers, and legally binding e‑signatures. Users can upload, sign, and send documents in seconds, making it a cost‑effective DocuSign alternative. The service targets industries such as real estate, contracting, law firms, and creative professionals.
 
-**Areas:** Electronic Signature · Small Business · AI Document Analysis · DocuSign Alternative · Free Plan
+**Areas:** E-Signature · Small Business · AI Document Analysis · DocuSign Alternative · Free Plan
 
 ## AddSign on APIs.io
 
@@ -84,13 +84,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Addsign Io Domain Security](https://apis.io/security/addsign-io/addsign-io-domain-security/)
+- [AddSign Domain Security](https://apis.io/security/addsign-io/addsign-io-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Addsign Io Plans Pricing](https://apis.io/plans/addsign-io/addsign-io-plans-pricing/)
+- [AddSign Plans Pricing](https://apis.io/plans/addsign-io/addsign-io-plans-pricing/)
 
 ## Where to find this API
 
@@ -105,25 +105,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 19.9** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 21.1** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 64.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 21.4 |
-| Access clarity | 50.5 |
+| Access clarity | 57.4 |
 
-**Agent readiness 6.7** — agent-aware
+**Agent readiness 3.5** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -141,8 +141,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/addsign-io/](https://apis.io/providers/addsign-io/).
 
